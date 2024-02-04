@@ -3,11 +3,11 @@
   "version": "1.0.0",
   "description": "Educator JS Codespace Template",
   "source": "src/index.html",
-  "homepage": "http://kakusu243.github.io/johnkakusu",
+  "homepage": "http://Kakusu243.github.io/johnkakusu",
   "scripts": {
     "start": "parcel",
     "build": "parcel build",
-    "build-gh": "parcel build --public-url 'https://kakusu243.github.io/johnkakusu'",
+    "build-gh": "parcel build --public-url 'https://Kakusu243.github.io/johnkakusu'",
     "predeploy": "npm run build-gh",
     "deploy": "gh-pages -d dist"
   },
